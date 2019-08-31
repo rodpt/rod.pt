@@ -1,8 +1,13 @@
-![Typo International](img/work/proj-1/img1.jpg)
+![Zona Gráfica V.1 Capa](img/work/proj-1/img1.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+A **Zona Gráfica Volume I** saiu em Maio de 2010 e foi a quarta edição da revista alternativa **Zona**.
+Esta edição conta com uma participação minha com a história **_Olho por Olho_**, entre participações de muitos outros autores.
 
-![Typo International](img/work/proj-1/img2.jpg)
-![Typo International](img/work/proj-1/img3.jpg)
-![Typo International](img/work/proj-1/img4.jpg)
-![Typo International](img/work/proj-1/img5.jpg)
+![Zona Gráfica V.1](img/work/proj-1/img5.jpg)
+![Zona Gráfica V.1](img/work/proj-1/img2.jpg)
+![Zona Gráfica V.1](img/work/proj-1/img3.jpg)
+![Zona Gráfica V.1](img/work/proj-1/img4.jpg)
+
+Caso estejam interessados em adquirir esta edição podem fazê-lo através do link abaixo:
+
+#### [Comprar](https://atentaculo.weebly.com/loja---publicaccedilotildees---zona-graacutefica---vol-i.html)
