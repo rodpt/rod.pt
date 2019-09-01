@@ -1217,7 +1217,8 @@ footer {
   margin: 0px auto 50px; }
 
 .biglink {
-  display: inline-block;
+/*  display: inline-block; */
+  display: none;
   font-size: 72px;
   font-weight: 300;
   line-height: 1;
