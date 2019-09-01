@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on O Abominável RoD!</title>
+    <link>http://localhost:1313/work/</link>
+    <description>Recent content in Works on O Abominável RoD!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    
+	<atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/work/proj-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/proj-1/</guid>
+      <description> A Zona Gráfica Volume I saiu em Maio de 2010 e foi a quarta edição da revista alternativa Zona. Esta edição conta com uma participação minha com a história Olho por Olho, entre participações de muitos outros autores.
+Caso estejam interessados em adquirir esta edição podem fazê-lo através do link abaixo:
+Comprar </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/work/proj-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/proj-2/</guid>
+      <description>A Venham +5 é um fanzine do colectivo Toupeira. Trata-se do colectivo de autores de BD mais antigo a operar em Portugal, mais própriamente a partir de Beja. Participei na edição no.7 do Venham +5 com uma banda desenhada chamada EUROPOLIS. Uma estória curta que fala sobre o futuro da europa e dos avanços científicos.
+Não tenho conhecimento de que esta edição ainda esteja disponível. Visto que se trata de uma publicação da BDteca de Beja podem contactar caso pretendam inquirir sobre a disponibilidade de exemplares antigos.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/work/proj-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/proj-3/</guid>
+      <description>A revista Moda Foca foi publicada pela editora Pedra No Charco em 2008. Nasceu da mente de Álvaro Santos e contou com a participação de vários autores, Álvaro (uma vez mais), Andreia Rechena, Chuaga, Derradé, Inês Ramos, Luís Graça, Osvaldo Macedo de Sousa, Pedro Alves, Rodrigo, Teresa Câmara Pestana e eu próprio.
+Participei com as BDs O futuro dos nossos filhos e A Consulta,
+Caso pretenda adquirir este exemplar da revista Moda Foca pode fazê-lo contactando o editor pelo email bdjornal@gmail.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/work/proj-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/proj-4/</guid>
+      <description>A Venham +5 é um fanzine do colectivo Toupeira. Trata-se do colectivo de autores de BD mais antigo a operar em Portugal, mais própriamente a partir de Beja. Participei na edição no.7 do Venham +5 com uma banda desenhada chamada EUROPOLIS. Uma estória curta que fala sobre o futuro da europa e dos avanços científicos.
+Caso pretenda adquirir este exemplar da revista Moda Foca pode fazê-lo contactando o editor pelo email bdjornal@gmail.</description>
+    </item>
+    
+  </channel>
+</rss>
